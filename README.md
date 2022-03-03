@@ -1,7 +1,8 @@
 # Page replacement algorithm simulator
 
 ## Description:
-This is
+This is a page replacement algorithm simulator that uses FIFO (First in First out), LRU (Least Recently Used), and Optimal algorith methods.
+
 
 ## main.cpp: 
 	It reads 1) frame size / 2) input file name / 3) output file name
