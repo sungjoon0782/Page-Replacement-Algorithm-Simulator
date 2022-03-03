@@ -14,7 +14,7 @@ This is a page replacement algorithm simulator that uses FIFO (First in First ou
 	
 
 	
-## Sample output:
+## Output:
 
 	===========================================================================
 	    Page Replacement Algorithm Simulation (frame size = 128)
